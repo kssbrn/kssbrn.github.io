@@ -73,7 +73,6 @@ h1 {
     text-align: left;
     font-size: 5em;
     color: white;
-    top: 30%;
     max-width: 100%;
     text-transform: uppercase;
     line-height: 120%;
@@ -86,12 +85,6 @@ li {
 
 
 }
-
-.logos {
-
-    position: relative;
-    top: 50px;
-     }
 
 .com {
 
@@ -107,7 +100,6 @@ h3 {
     font-size: 2em;
     color: white;
     max-width: 100%;
-     line-height: 680%;
     font-family: 'blender_promedium';
     
 
@@ -172,7 +164,7 @@ a:visited, a:link, a:active
 
 html { 
    
-    font-size: 50%;
+    font-size: 40%;
    
 
  }
@@ -206,7 +198,7 @@ html {
 
 html { 
    
-    font-size: 60%;
+    font-size: 50%;
  
  }
 
@@ -224,7 +216,7 @@ html {
 
 html { 
    
-    font-size: 70%;
+    font-size: 60%;
    
 
  }
@@ -245,7 +237,7 @@ html {
 
 html { 
    
-    font-size: 80%;
+    font-size: 70%;
    
 
  }

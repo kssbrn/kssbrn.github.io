@@ -97,6 +97,7 @@ li {
 
     max-width: 70px;
     max-height: 70px;
+    margin-bottom: 20px;
 }
     
 h3 {
@@ -141,6 +142,11 @@ a:visited, a:link, a:active
 
 
 }
+
+
+
+
+
 
  @media (max-width:400px) {
 
